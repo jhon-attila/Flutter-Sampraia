@@ -5,5 +5,5 @@
 
 <h1>Descrição do Aplicativo</h1>
 
-<a href="https://github.com/JuS0l/App_IlhaBela/wiki/Descrição-do-Aplicativo">Link para a wiki de descrição</a>
+<a href="https://github.com/jhon-attila/Flutter-Sampraia/wiki/Descrição-do-Aplicativo">Link para a wiki de descrição</a>
 
